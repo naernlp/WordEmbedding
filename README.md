@@ -14,6 +14,5 @@
 |--------------------|--------------|-------------------------|
 |中研院平衡語料庫    |   11,202,927 | ASBC.bin                |
 |LDC Chinese Gigaword|  446,192,997 | ChineseGigaword.bin     |
-|書面語料庫庫        |   69,892,236 | YuanLiou.bin            |
-|中國時報            |              | ChineseTimes.bin        |
-|國語日報            |              | MandarinDailyNews.bin   |
+|遠流圖書語料庫      |   69,892,236 | YuanLiou.bin            |
+|國語日報            |    3,826,620 | MandarinDailyNews.bin   |
